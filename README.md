@@ -267,24 +267,15 @@ Full-stack Flutter app with Firebase Auth, Firestore, and Gemini AI for role-bas
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="22">&nbsp; GitHub Stats
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.gif" width="22">&nbsp; Fun Zone
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saksham-Gupta-GH&show_icons=true&hide_border=true&bg_color=ffffff&title_color=202124&icon_color=4285F4&text_color=5f6368&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=Saksham-Gupta-GH&hide_border=true&background=ffffff&ring=4285F4&fire=EA4335&currStreakLabel=202124&sideLabels=202124&currStreakNum=202124&sideNums=202124&dates=5f6368" width="48%" alt="Streak Stats"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=4285F4&height=150&section=header&text=🎆%20Click%20a%20repo%20above%20to%20explore!%20🎇&fontSize=24&fontColor=4285F4&animation=twinkling" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Gupta-GH&layout=compact&hide_border=true&bg_color=ffffff&title_color=202124&text_color=5f6368&langs_count=10" width="40%" alt="Top Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-Gupta-GH&bg_color=ffffff&color=202124&line=4285F4&point=EA4335&area=true&area_color=e8f0fe&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
+<img src="https://raw.githubusercontent.com/Saksham-Gupta-GH/Saksham-Gupta-GH/main/fireworks.svg" width="100%" alt="Fireworks Animation"/>
 
 </div>
 

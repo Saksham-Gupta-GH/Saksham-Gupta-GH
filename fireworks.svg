@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <style>
+    @keyframes launch1 { 0%{opacity:0;transform:translateY(80px)} 30%{opacity:1;transform:translateY(0)} 100%{opacity:1;transform:translateY(0)} }
+    @keyframes launch2 { 0%{opacity:0;transform:translateY(80px)} 15%{opacity:0;transform:translateY(80px)} 45%{opacity:1;transform:translateY(0)} 100%{opacity:1;transform:translateY(0)} }
+    @keyframes launch3 { 0%{opacity:0;transform:translateY(80px)} 30%{opacity:0;transform:translateY(80px)} 60%{opacity:1;transform:translateY(0)} 100%{opacity:1;transform:translateY(0)} }
+    @keyframes burst { 0%{r:0;opacity:0} 20%{r:0;opacity:0} 40%{r:4;opacity:1} 70%{r:3;opacity:0.8} 100%{r:1;opacity:0} }
+    @keyframes burst2 { 0%{r:0;opacity:0} 35%{r:0;opacity:0} 55%{r:4;opacity:1} 80%{r:3;opacity:0.8} 100%{r:1;opacity:0} }
+    @keyframes burst3 { 0%{r:0;opacity:0} 50%{r:0;opacity:0} 70%{r:4;opacity:1} 90%{r:3;opacity:0.8} 100%{r:1;opacity:0} }
+    @keyframes sparkle { 0%{opacity:0} 50%{opacity:1} 100%{opacity:0} }
+    @keyframes trail { 0%{stroke-dashoffset:60} 30%{stroke-dashoffset:0} 60%{opacity:0} 100%{opacity:0} }
+    @keyframes trail2 { 0%{stroke-dashoffset:60} 15%{stroke-dashoffset:60} 45%{stroke-dashoffset:0} 75%{opacity:0} 100%{opacity:0} }
+    @keyframes trail3 { 0%{stroke-dashoffset:60} 30%{stroke-dashoffset:60} 60%{stroke-dashoffset:0} 85%{opacity:0} 100%{opacity:0} }
+    @keyframes glow { 0%{opacity:0} 40%{opacity:0.15} 70%{opacity:0.3} 100%{opacity:0} }
+    @keyframes glow2 { 0%{opacity:0} 50%{opacity:0.15} 80%{opacity:0.3} 100%{opacity:0} }
+    @keyframes glow3 { 0%{opacity:0} 60%{opacity:0.15} 90%{opacity:0.3} 100%{opacity:0} }
+    @keyframes float { 0%{transform:translateY(0)} 50%{transform:translateY(-3px)} 100%{transform:translateY(0)} }
+    .trail1 { stroke-dasharray:60; animation: trail 3s ease-out infinite; }
+    .trail2 { stroke-dasharray:60; animation: trail2 3s ease-out infinite; }
+    .trail3 { stroke-dasharray:60; animation: trail3 3s ease-out infinite; }
+    .b1 circle { animation: burst 3s ease-out infinite; }
+    .b2 circle { animation: burst2 3s ease-out infinite; }
+    .b3 circle { animation: burst3 3s ease-out infinite; }
+    .glow1 { animation: glow 3s ease-out infinite; }
+    .glow2 { animation: glow2 3s ease-out infinite; }
+    .glow3 { animation: glow3 3s ease-out infinite; }
+    .star { animation: sparkle 2s ease-in-out infinite; }
+    .txt { animation: float 3s ease-in-out infinite; }
+  </style>
+
+  <!-- Background -->
+  <rect width="800" height="300" fill="white" rx="12"/>
+
+  <!-- Glows -->
+  <circle cx="200" cy="100" r="70" fill="#4285F4" opacity="0" class="glow1"/>
+  <circle cx="400" cy="80" r="70" fill="#EA4335" opacity="0" class="glow2"/>
+  <circle cx="600" cy="100" r="70" fill="#34A853" opacity="0" class="glow3"/>
+
+  <!-- Trails -->
+  <line x1="200" y1="280" x2="200" y2="100" stroke="#4285F4" stroke-width="2" class="trail1" opacity="0.6"/>
+  <line x1="400" y1="280" x2="400" y2="80" stroke="#EA4335" stroke-width="2" class="trail2" opacity="0.6"/>
+  <line x1="600" y1="280" x2="600" y2="100" stroke="#34A853" stroke-width="2" class="trail3" opacity="0.6"/>
+
+  <!-- Firework 1 - Google Blue -->
+  <g class="b1">
+    <circle cx="200" cy="100" fill="#4285F4"/><circle cx="220" cy="80" fill="#4285F4"/>
+    <circle cx="240" cy="100" fill="#4285F4"/><circle cx="220" cy="120" fill="#4285F4"/>
+    <circle cx="180" cy="80" fill="#4285F4"/><circle cx="160" cy="100" fill="#4285F4"/>
+    <circle cx="180" cy="120" fill="#4285F4"/><circle cx="200" cy="70" fill="#4285F4"/>
+    <circle cx="200" cy="130" fill="#4285F4"/><circle cx="230" cy="90" fill="#4285F4"/>
+    <circle cx="170" cy="90" fill="#4285F4"/><circle cx="230" cy="110" fill="#4285F4"/>
+    <circle cx="170" cy="110" fill="#4285F4"/><circle cx="245" cy="85" fill="#4285F4"/>
+    <circle cx="155" cy="85" fill="#4285F4"/><circle cx="245" cy="115" fill="#4285F4"/>
+    <circle cx="155" cy="115" fill="#4285F4"/><circle cx="210" cy="68" fill="#4285F4"/>
+    <circle cx="190" cy="68" fill="#4285F4"/><circle cx="210" cy="132" fill="#4285F4"/>
+    <circle cx="190" cy="132" fill="#4285F4"/>
+  </g>
+
+  <!-- Firework 2 - Google Red -->
+  <g class="b2">
+    <circle cx="400" cy="80" fill="#EA4335"/><circle cx="420" cy="60" fill="#EA4335"/>
+    <circle cx="440" cy="80" fill="#EA4335"/><circle cx="420" cy="100" fill="#EA4335"/>
+    <circle cx="380" cy="60" fill="#EA4335"/><circle cx="360" cy="80" fill="#EA4335"/>
+    <circle cx="380" cy="100" fill="#EA4335"/><circle cx="400" cy="50" fill="#EA4335"/>
+    <circle cx="400" cy="110" fill="#EA4335"/><circle cx="430" cy="70" fill="#EA4335"/>
+    <circle cx="370" cy="70" fill="#EA4335"/><circle cx="430" cy="90" fill="#EA4335"/>
+    <circle cx="370" cy="90" fill="#EA4335"/><circle cx="445" cy="65" fill="#FBBC04"/>
+    <circle cx="355" cy="65" fill="#FBBC04"/><circle cx="445" cy="95" fill="#FBBC04"/>
+    <circle cx="355" cy="95" fill="#FBBC04"/><circle cx="410" cy="48" fill="#FBBC04"/>
+    <circle cx="390" cy="48" fill="#FBBC04"/><circle cx="410" cy="112" fill="#FBBC04"/>
+    <circle cx="390" cy="112" fill="#FBBC04"/>
+  </g>
+
+  <!-- Firework 3 - Google Green -->
+  <g class="b3">
+    <circle cx="600" cy="100" fill="#34A853"/><circle cx="620" cy="80" fill="#34A853"/>
+    <circle cx="640" cy="100" fill="#34A853"/><circle cx="620" cy="120" fill="#34A853"/>
+    <circle cx="580" cy="80" fill="#34A853"/><circle cx="560" cy="100" fill="#34A853"/>
+    <circle cx="580" cy="120" fill="#34A853"/><circle cx="600" cy="70" fill="#34A853"/>
+    <circle cx="600" cy="130" fill="#34A853"/><circle cx="630" cy="90" fill="#34A853"/>
+    <circle cx="570" cy="90" fill="#34A853"/><circle cx="630" cy="110" fill="#34A853"/>
+    <circle cx="570" cy="110" fill="#34A853"/><circle cx="645" cy="85" fill="#34A853"/>
+    <circle cx="555" cy="85" fill="#34A853"/><circle cx="645" cy="115" fill="#34A853"/>
+    <circle cx="555" cy="115" fill="#34A853"/><circle cx="610" cy="68" fill="#34A853"/>
+    <circle cx="590" cy="68" fill="#34A853"/><circle cx="610" cy="132" fill="#34A853"/>
+    <circle cx="590" cy="132" fill="#34A853"/>
+  </g>
+
+  <!-- Sparkle stars -->
+  <text x="120" y="60" font-size="14" class="star" style="animation-delay:0s">✦</text>
+  <text x="300" y="45" font-size="12" fill="#FBBC04" class="star" style="animation-delay:0.5s">✦</text>
+  <text x="500" y="55" font-size="16" fill="#4285F4" class="star" style="animation-delay:1s">✦</text>
+  <text x="680" y="50" font-size="13" fill="#EA4335" class="star" style="animation-delay:1.5s">✦</text>
+  <text x="150" y="160" font-size="10" fill="#34A853" class="star" style="animation-delay:0.7s">✦</text>
+  <text x="650" y="160" font-size="11" fill="#FBBC04" class="star" style="animation-delay:1.2s">✦</text>
+  <text x="350" y="150" font-size="10" fill="#4285F4" class="star" style="animation-delay:0.3s">✦</text>
+  <text x="450" y="145" font-size="12" fill="#34A853" class="star" style="animation-delay:0.9s">✦</text>
+  <text x="250" y="55" font-size="11" fill="#34A853" class="star" style="animation-delay:1.8s">✦</text>
+  <text x="550" y="45" font-size="14" fill="#FBBC04" class="star" style="animation-delay:0.2s">✦</text>
+
+  <!-- Google-colored dots bottom decoration -->
+  <circle cx="355" cy="230" r="5" fill="#4285F4" opacity="0.7"/>
+  <circle cx="375" cy="230" r="5" fill="#EA4335" opacity="0.7"/>
+  <circle cx="395" cy="230" r="5" fill="#FBBC04" opacity="0.7"/>
+  <circle cx="415" cy="230" r="5" fill="#34A853" opacity="0.7"/>
+  <circle cx="435" cy="230" r="5" fill="#4285F4" opacity="0.7"/>
+  <circle cx="455" cy="230" r="5" fill="#EA4335" opacity="0.7"/>
+
+  <!-- Text -->
+  <g class="txt">
+    <text x="400" y="270" text-anchor="middle" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="16" font-weight="500" fill="#5f6368">Thanks for visiting! Star a repo to launch more fireworks 🎆</text>
+  </g>
+</svg>

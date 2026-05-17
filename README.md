@@ -271,7 +271,11 @@ Full-stack Flutter app with Firebase Auth, Firestore, and Gemini AI for role-bas
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Saksham-Gupta-GH/Saksham-Gupta-GH/main/tetris.svg" width="100%" alt="Tetris Game"/>
+<a href="https://saksham-gupta-gh.github.io/brickbreaker.html">
+<img src="https://raw.githubusercontent.com/Saksham-Gupta-GH/Saksham-Gupta-GH/main/brickbreaker.svg" width="100%" alt="Brick Breaker — Click to Play!"/>
+</a>
+
+**[🕹️ Play Brick Breaker](https://saksham-gupta-gh.github.io/brickbreaker.html)** — *Built with vanilla JS + Google colors*
 
 </div>
 

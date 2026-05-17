@@ -271,7 +271,7 @@ Full-stack Flutter app with Firebase Auth, Firestore, and Gemini AI for role-bas
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Saksham-Gupta-GH/Saksham-Gupta-GH/main/fireworks.svg" width="100%" alt="Tetris Game"/>
+<img src="https://raw.githubusercontent.com/Saksham-Gupta-GH/Saksham-Gupta-GH/main/tetris.svg" width="100%" alt="Tetris Game"/>
 
 </div>
 

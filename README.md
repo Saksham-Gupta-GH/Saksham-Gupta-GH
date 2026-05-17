@@ -267,15 +267,11 @@ Full-stack Flutter app with Firebase Auth, Firestore, and Gemini AI for role-bas
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.gif" width="22">&nbsp; Fun Zone
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ae/512.gif" width="22">&nbsp; Game Zone
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=4285F4&height=150&section=header&text=🎆%20Click%20a%20repo%20above%20to%20explore!%20🎇&fontSize=24&fontColor=4285F4&animation=twinkling" width="100%"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Saksham-Gupta-GH/Saksham-Gupta-GH/main/fireworks.svg" width="100%" alt="Fireworks Animation"/>
+<img src="https://raw.githubusercontent.com/Saksham-Gupta-GH/Saksham-Gupta-GH/main/fireworks.svg" width="100%" alt="Tetris Game"/>
 
 </div>
 

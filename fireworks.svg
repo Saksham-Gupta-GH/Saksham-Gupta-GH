@@ -1,187 +1,196 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="800" height="320" shape-rendering="crispEdges">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420" shape-rendering="crispEdges">
 
-  <!-- Dark arcade background -->
-  <rect width="800" height="320" fill="#0d1117" rx="10"/>
+  <!-- Background -->
+  <rect width="800" height="420" fill="#0d1117" rx="10"/>
 
-  <!-- Subtle scanlines -->
-  <g opacity="0.03">
-    <rect y="0" width="800" height="1" fill="#fff"/><rect y="3" width="800" height="1" fill="#fff"/>
-    <rect y="6" width="800" height="1" fill="#fff"/><rect y="9" width="800" height="1" fill="#fff"/>
-    <rect y="12" width="800" height="1" fill="#fff"/><rect y="15" width="800" height="1" fill="#fff"/>
-    <rect y="18" width="800" height="1" fill="#fff"/><rect y="21" width="800" height="1" fill="#fff"/>
-    <rect y="24" width="800" height="1" fill="#fff"/><rect y="27" width="800" height="1" fill="#fff"/>
-    <rect y="30" width="800" height="1" fill="#fff"/><rect y="33" width="800" height="1" fill="#fff"/>
-    <rect y="36" width="800" height="1" fill="#fff"/><rect y="39" width="800" height="1" fill="#fff"/>
-    <rect y="42" width="800" height="1" fill="#fff"/><rect y="45" width="800" height="1" fill="#fff"/>
-    <rect y="48" width="800" height="1" fill="#fff"/><rect y="51" width="800" height="1" fill="#fff"/>
-    <rect y="54" width="800" height="1" fill="#fff"/><rect y="57" width="800" height="1" fill="#fff"/>
-    <rect y="60" width="800" height="1" fill="#fff"/><rect y="63" width="800" height="1" fill="#fff"/>
-    <rect y="66" width="800" height="1" fill="#fff"/><rect y="69" width="800" height="1" fill="#fff"/>
-    <rect y="72" width="800" height="1" fill="#fff"/><rect y="75" width="800" height="1" fill="#fff"/>
-    <rect y="78" width="800" height="1" fill="#fff"/><rect y="81" width="800" height="1" fill="#fff"/>
-    <rect y="84" width="800" height="1" fill="#fff"/><rect y="87" width="800" height="1" fill="#fff"/>
-    <rect y="90" width="800" height="1" fill="#fff"/><rect y="93" width="800" height="1" fill="#fff"/>
-    <rect y="96" width="800" height="1" fill="#fff"/><rect y="99" width="800" height="1" fill="#fff"/>
-    <rect y="102" width="800" height="1" fill="#fff"/><rect y="105" width="800" height="1" fill="#fff"/>
-    <rect y="108" width="800" height="1" fill="#fff"/><rect y="111" width="800" height="1" fill="#fff"/>
-    <rect y="114" width="800" height="1" fill="#fff"/><rect y="117" width="800" height="1" fill="#fff"/>
-    <rect y="120" width="800" height="1" fill="#fff"/><rect y="123" width="800" height="1" fill="#fff"/>
-    <rect y="126" width="800" height="1" fill="#fff"/><rect y="129" width="800" height="1" fill="#fff"/>
-    <rect y="132" width="800" height="1" fill="#fff"/><rect y="135" width="800" height="1" fill="#fff"/>
-    <rect y="138" width="800" height="1" fill="#fff"/><rect y="141" width="800" height="1" fill="#fff"/>
-    <rect y="144" width="800" height="1" fill="#fff"/><rect y="147" width="800" height="1" fill="#fff"/>
-    <rect y="150" width="800" height="1" fill="#fff"/><rect y="153" width="800" height="1" fill="#fff"/>
-    <rect y="156" width="800" height="1" fill="#fff"/><rect y="159" width="800" height="1" fill="#fff"/>
-    <rect y="162" width="800" height="1" fill="#fff"/><rect y="165" width="800" height="1" fill="#fff"/>
-    <rect y="168" width="800" height="1" fill="#fff"/><rect y="171" width="800" height="1" fill="#fff"/>
-    <rect y="174" width="800" height="1" fill="#fff"/><rect y="177" width="800" height="1" fill="#fff"/>
-    <rect y="180" width="800" height="1" fill="#fff"/><rect y="183" width="800" height="1" fill="#fff"/>
-    <rect y="186" width="800" height="1" fill="#fff"/><rect y="189" width="800" height="1" fill="#fff"/>
-    <rect y="192" width="800" height="1" fill="#fff"/><rect y="195" width="800" height="1" fill="#fff"/>
-    <rect y="198" width="800" height="1" fill="#fff"/><rect y="201" width="800" height="1" fill="#fff"/>
-    <rect y="204" width="800" height="1" fill="#fff"/><rect y="207" width="800" height="1" fill="#fff"/>
-    <rect y="210" width="800" height="1" fill="#fff"/><rect y="213" width="800" height="1" fill="#fff"/>
-    <rect y="216" width="800" height="1" fill="#fff"/><rect y="219" width="800" height="1" fill="#fff"/>
-    <rect y="222" width="800" height="1" fill="#fff"/><rect y="225" width="800" height="1" fill="#fff"/>
-    <rect y="228" width="800" height="1" fill="#fff"/><rect y="231" width="800" height="1" fill="#fff"/>
-    <rect y="234" width="800" height="1" fill="#fff"/><rect y="237" width="800" height="1" fill="#fff"/>
-    <rect y="240" width="800" height="1" fill="#fff"/><rect y="243" width="800" height="1" fill="#fff"/>
-    <rect y="246" width="800" height="1" fill="#fff"/><rect y="249" width="800" height="1" fill="#fff"/>
-    <rect y="252" width="800" height="1" fill="#fff"/><rect y="255" width="800" height="1" fill="#fff"/>
-    <rect y="258" width="800" height="1" fill="#fff"/><rect y="261" width="800" height="1" fill="#fff"/>
-    <rect y="264" width="800" height="1" fill="#fff"/><rect y="267" width="800" height="1" fill="#fff"/>
-    <rect y="270" width="800" height="1" fill="#fff"/><rect y="273" width="800" height="1" fill="#fff"/>
-    <rect y="276" width="800" height="1" fill="#fff"/><rect y="279" width="800" height="1" fill="#fff"/>
-    <rect y="282" width="800" height="1" fill="#fff"/><rect y="285" width="800" height="1" fill="#fff"/>
-    <rect y="288" width="800" height="1" fill="#fff"/><rect y="291" width="800" height="1" fill="#fff"/>
-    <rect y="294" width="800" height="1" fill="#fff"/><rect y="297" width="800" height="1" fill="#fff"/>
-    <rect y="300" width="800" height="1" fill="#fff"/><rect y="303" width="800" height="1" fill="#fff"/>
-    <rect y="306" width="800" height="1" fill="#fff"/><rect y="309" width="800" height="1" fill="#fff"/>
-    <rect y="312" width="800" height="1" fill="#fff"/><rect y="315" width="800" height="1" fill="#fff"/>
-    <rect y="318" width="800" height="1" fill="#fff"/>
+  <!-- ════════════════════════════════════════════════════ -->
+  <!-- TETRIS BOARD - 10 wide x 20 tall, 16px cells       -->
+  <!-- Board origin: x=240, y=18                           -->
+  <!-- ════════════════════════════════════════════════════ -->
+
+  <!-- Board border -->
+  <rect x="238" y="16" width="164" height="324" fill="none" stroke="#1a1f2e" stroke-width="2"/>
+  <!-- Board inner bg -->
+  <rect x="240" y="18" width="160" height="320" fill="#0a0e17"/>
+
+  <!-- Grid lines (subtle) -->
+  <g opacity="0.06" stroke="#4285F4">
+    <!-- Vertical -->
+    <line x1="256" y1="18" x2="256" y2="338"/><line x1="272" y1="18" x2="272" y2="338"/>
+    <line x1="288" y1="18" x2="288" y2="338"/><line x1="304" y1="18" x2="304" y2="338"/>
+    <line x1="320" y1="18" x2="320" y2="338"/><line x1="336" y1="18" x2="336" y2="338"/>
+    <line x1="352" y1="18" x2="352" y2="338"/><line x1="368" y1="18" x2="368" y2="338"/>
+    <line x1="384" y1="18" x2="384" y2="338"/>
+    <!-- Horizontal -->
+    <line x1="240" y1="34" x2="400" y2="34"/><line x1="240" y1="50" x2="400" y2="50"/>
+    <line x1="240" y1="66" x2="400" y2="66"/><line x1="240" y1="82" x2="400" y2="82"/>
+    <line x1="240" y1="98" x2="400" y2="98"/><line x1="240" y1="114" x2="400" y2="114"/>
+    <line x1="240" y1="130" x2="400" y2="130"/><line x1="240" y1="146" x2="400" y2="146"/>
+    <line x1="240" y1="162" x2="400" y2="162"/><line x1="240" y1="178" x2="400" y2="178"/>
+    <line x1="240" y1="194" x2="400" y2="194"/><line x1="240" y1="210" x2="400" y2="210"/>
+    <line x1="240" y1="226" x2="400" y2="226"/><line x1="240" y1="242" x2="400" y2="242"/>
+    <line x1="240" y1="258" x2="400" y2="258"/><line x1="240" y1="274" x2="400" y2="274"/>
+    <line x1="240" y1="290" x2="400" y2="290"/><line x1="240" y1="306" x2="400" y2="306"/>
+    <line x1="240" y1="322" x2="400" y2="322"/>
   </g>
 
-  <!-- TRAIL 1 (left) — pixel dashes -->
-  <rect x="178" y="220" width="4" height="4" fill="#4285F4" opacity="0.9"/>
-  <rect x="178" y="210" width="4" height="4" fill="#4285F4" opacity="0.7"/>
-  <rect x="178" y="200" width="4" height="4" fill="#4285F4" opacity="0.5"/>
-  <rect x="178" y="190" width="4" height="4" fill="#4285F4" opacity="0.3"/>
-  <rect x="178" y="180" width="4" height="4" fill="#4285F4" opacity="0.15"/>
+  <!-- ═══ FALLING T-PIECE (Google Blue) — row 4, col 4 ═══ -->
+  <rect x="288" y="50" width="14" height="14" fill="#4285F4" rx="1"/><rect x="289" y="51" width="5" height="5" fill="#6ba3f7" opacity="0.4"/>
+  <rect x="304" y="50" width="14" height="14" fill="#4285F4" rx="1"/><rect x="305" y="51" width="5" height="5" fill="#6ba3f7" opacity="0.4"/>
+  <rect x="320" y="50" width="14" height="14" fill="#4285F4" rx="1"/><rect x="321" y="51" width="5" height="5" fill="#6ba3f7" opacity="0.4"/>
+  <rect x="304" y="66" width="14" height="14" fill="#4285F4" rx="1"/><rect x="305" y="67" width="5" height="5" fill="#6ba3f7" opacity="0.4"/>
 
-  <!-- TRAIL 2 (center) -->
-  <rect x="398" y="220" width="4" height="4" fill="#EA4335" opacity="0.9"/>
-  <rect x="398" y="210" width="4" height="4" fill="#EA4335" opacity="0.7"/>
-  <rect x="398" y="200" width="4" height="4" fill="#EA4335" opacity="0.5"/>
-  <rect x="398" y="190" width="4" height="4" fill="#EA4335" opacity="0.3"/>
-  <rect x="398" y="180" width="4" height="4" fill="#EA4335" opacity="0.15"/>
+  <!-- ═══ LANDED PIECES ═══ -->
 
-  <!-- TRAIL 3 (right) -->
-  <rect x="618" y="220" width="4" height="4" fill="#34A853" opacity="0.9"/>
-  <rect x="618" y="210" width="4" height="4" fill="#34A853" opacity="0.7"/>
-  <rect x="618" y="200" width="4" height="4" fill="#34A853" opacity="0.5"/>
-  <rect x="618" y="190" width="4" height="4" fill="#34A853" opacity="0.3"/>
-  <rect x="618" y="180" width="4" height="4" fill="#34A853" opacity="0.15"/>
+  <!-- Row 20 (bottom) — nearly full row -->
+  <rect x="240" y="322" width="14" height="14" fill="#EA4335" rx="1"/><rect x="241" y="323" width="5" height="5" fill="#f5a6a0" opacity="0.3"/>
+  <rect x="256" y="322" width="14" height="14" fill="#EA4335" rx="1"/><rect x="257" y="323" width="5" height="5" fill="#f5a6a0" opacity="0.3"/>
+  <rect x="272" y="322" width="14" height="14" fill="#34A853" rx="1"/><rect x="273" y="323" width="5" height="5" fill="#81c995" opacity="0.3"/>
+  <rect x="288" y="322" width="14" height="14" fill="#34A853" rx="1"/><rect x="289" y="323" width="5" height="5" fill="#81c995" opacity="0.3"/>
+  <rect x="304" y="322" width="14" height="14" fill="#FBBC04" rx="1"/><rect x="305" y="323" width="5" height="5" fill="#fdd663" opacity="0.3"/>
+  <rect x="320" y="322" width="14" height="14" fill="#FBBC04" rx="1"/><rect x="321" y="323" width="5" height="5" fill="#fdd663" opacity="0.3"/>
+  <rect x="336" y="322" width="14" height="14" fill="#4285F4" rx="1"/><rect x="337" y="323" width="5" height="5" fill="#6ba3f7" opacity="0.3"/>
+  <rect x="352" y="322" width="14" height="14" fill="#4285F4" rx="1"/><rect x="353" y="323" width="5" height="5" fill="#6ba3f7" opacity="0.3"/>
+  <rect x="384" y="322" width="14" height="14" fill="#EA4335" rx="1"/><rect x="385" y="323" width="5" height="5" fill="#f5a6a0" opacity="0.3"/>
 
-  <!-- FIREWORK 1 — BLUE pixel burst -->
-  <!-- Core -->
-  <rect x="176" y="98" width="8" height="8" fill="#ffffff"/>
-  <!-- Inner ring (cardinal) -->
-  <rect x="176" y="82" width="8" height="6" fill="#4285F4"/>
-  <rect x="176" y="118" width="8" height="6" fill="#4285F4"/>
-  <rect x="160" y="98" width="6" height="8" fill="#4285F4"/>
-  <rect x="194" y="98" width="6" height="8" fill="#4285F4"/>
-  <!-- Diagonal ring -->
-  <rect x="164" y="86" width="6" height="6" fill="#4285F4"/>
-  <rect x="190" y="86" width="6" height="6" fill="#4285F4"/>
-  <rect x="164" y="112" width="6" height="6" fill="#4285F4"/>
-  <rect x="190" y="112" width="6" height="6" fill="#4285F4"/>
-  <!-- Outer sparks -->
-  <rect x="176" y="68" width="4" height="4" fill="#4285F4" opacity="0.7"/>
-  <rect x="176" y="130" width="4" height="4" fill="#4285F4" opacity="0.7"/>
-  <rect x="146" y="98" width="4" height="4" fill="#4285F4" opacity="0.7"/>
-  <rect x="210" y="98" width="4" height="4" fill="#4285F4" opacity="0.7"/>
-  <!-- Far outer -->
-  <rect x="152" y="76" width="3" height="3" fill="#83b4f5" opacity="0.5"/>
-  <rect x="206" y="76" width="3" height="3" fill="#83b4f5" opacity="0.5"/>
-  <rect x="152" y="124" width="3" height="3" fill="#83b4f5" opacity="0.5"/>
-  <rect x="206" y="124" width="3" height="3" fill="#83b4f5" opacity="0.5"/>
-  <!-- Farthest -->
-  <rect x="176" y="58" width="2" height="2" fill="#83b4f5" opacity="0.35"/>
-  <rect x="176" y="140" width="2" height="2" fill="#83b4f5" opacity="0.35"/>
-  <rect x="136" y="98" width="2" height="2" fill="#83b4f5" opacity="0.35"/>
-  <rect x="222" y="98" width="2" height="2" fill="#83b4f5" opacity="0.35"/>
+  <!-- Row 19 -->
+  <rect x="240" y="306" width="14" height="14" fill="#FBBC04" rx="1"/><rect x="241" y="307" width="5" height="5" fill="#fdd663" opacity="0.3"/>
+  <rect x="256" y="306" width="14" height="14" fill="#34A853" rx="1"/><rect x="257" y="307" width="5" height="5" fill="#81c995" opacity="0.3"/>
+  <rect x="272" y="306" width="14" height="14" fill="#34A853" rx="1"/><rect x="273" y="307" width="5" height="5" fill="#81c995" opacity="0.3"/>
+  <rect x="304" y="306" width="14" height="14" fill="#4285F4" rx="1"/><rect x="305" y="307" width="5" height="5" fill="#6ba3f7" opacity="0.3"/>
+  <rect x="336" y="306" width="14" height="14" fill="#EA4335" rx="1"/><rect x="337" y="307" width="5" height="5" fill="#f5a6a0" opacity="0.3"/>
+  <rect x="352" y="306" width="14" height="14" fill="#EA4335" rx="1"/><rect x="353" y="307" width="5" height="5" fill="#f5a6a0" opacity="0.3"/>
+  <rect x="384" y="306" width="14" height="14" fill="#EA4335" rx="1"/><rect x="385" y="307" width="5" height="5" fill="#f5a6a0" opacity="0.3"/>
 
-  <!-- FIREWORK 2 — RED/YELLOW pixel burst -->
-  <rect x="396" y="78" width="8" height="8" fill="#ffffff"/>
-  <rect x="396" y="62" width="8" height="6" fill="#EA4335"/>
-  <rect x="396" y="98" width="8" height="6" fill="#EA4335"/>
-  <rect x="380" y="78" width="6" height="8" fill="#EA4335"/>
-  <rect x="414" y="78" width="6" height="8" fill="#EA4335"/>
-  <rect x="384" y="66" width="6" height="6" fill="#FBBC04"/>
-  <rect x="410" y="66" width="6" height="6" fill="#FBBC04"/>
-  <rect x="384" y="94" width="6" height="6" fill="#FBBC04"/>
-  <rect x="410" y="94" width="6" height="6" fill="#FBBC04"/>
-  <rect x="396" y="48" width="4" height="4" fill="#EA4335" opacity="0.7"/>
-  <rect x="396" y="110" width="4" height="4" fill="#EA4335" opacity="0.7"/>
-  <rect x="366" y="78" width="4" height="4" fill="#EA4335" opacity="0.7"/>
-  <rect x="430" y="78" width="4" height="4" fill="#EA4335" opacity="0.7"/>
-  <rect x="372" y="56" width="3" height="3" fill="#FBBC04" opacity="0.5"/>
-  <rect x="426" y="56" width="3" height="3" fill="#FBBC04" opacity="0.5"/>
-  <rect x="372" y="104" width="3" height="3" fill="#FBBC04" opacity="0.5"/>
-  <rect x="426" y="104" width="3" height="3" fill="#FBBC04" opacity="0.5"/>
-  <rect x="396" y="38" width="2" height="2" fill="#f5a6a0" opacity="0.35"/>
-  <rect x="396" y="120" width="2" height="2" fill="#f5a6a0" opacity="0.35"/>
-  <rect x="356" y="78" width="2" height="2" fill="#f5a6a0" opacity="0.35"/>
-  <rect x="442" y="78" width="2" height="2" fill="#f5a6a0" opacity="0.35"/>
+  <!-- Row 18 -->
+  <rect x="240" y="290" width="14" height="14" fill="#FBBC04" rx="1"/><rect x="241" y="291" width="5" height="5" fill="#fdd663" opacity="0.3"/>
+  <rect x="256" y="290" width="14" height="14" fill="#FBBC04" rx="1"/><rect x="257" y="291" width="5" height="5" fill="#fdd663" opacity="0.3"/>
+  <rect x="336" y="290" width="14" height="14" fill="#4285F4" rx="1"/><rect x="337" y="291" width="5" height="5" fill="#6ba3f7" opacity="0.3"/>
+  <rect x="384" y="290" width="14" height="14" fill="#34A853" rx="1"/><rect x="385" y="291" width="5" height="5" fill="#81c995" opacity="0.3"/>
 
-  <!-- FIREWORK 3 — GREEN pixel burst -->
-  <rect x="616" y="88" width="8" height="8" fill="#ffffff"/>
-  <rect x="616" y="72" width="8" height="6" fill="#34A853"/>
-  <rect x="616" y="108" width="8" height="6" fill="#34A853"/>
-  <rect x="600" y="88" width="6" height="8" fill="#34A853"/>
-  <rect x="634" y="88" width="6" height="8" fill="#34A853"/>
-  <rect x="604" y="76" width="6" height="6" fill="#34A853"/>
-  <rect x="630" y="76" width="6" height="6" fill="#34A853"/>
-  <rect x="604" y="104" width="6" height="6" fill="#34A853"/>
-  <rect x="630" y="104" width="6" height="6" fill="#34A853"/>
-  <rect x="616" y="58" width="4" height="4" fill="#34A853" opacity="0.7"/>
-  <rect x="616" y="120" width="4" height="4" fill="#34A853" opacity="0.7"/>
-  <rect x="586" y="88" width="4" height="4" fill="#34A853" opacity="0.7"/>
-  <rect x="650" y="88" width="4" height="4" fill="#34A853" opacity="0.7"/>
-  <rect x="592" y="66" width="3" height="3" fill="#81c995" opacity="0.5"/>
-  <rect x="644" y="66" width="3" height="3" fill="#81c995" opacity="0.5"/>
-  <rect x="592" y="114" width="3" height="3" fill="#81c995" opacity="0.5"/>
-  <rect x="644" y="114" width="3" height="3" fill="#81c995" opacity="0.5"/>
-  <rect x="616" y="48" width="2" height="2" fill="#81c995" opacity="0.35"/>
-  <rect x="616" y="130" width="2" height="2" fill="#81c995" opacity="0.35"/>
-  <rect x="576" y="88" width="2" height="2" fill="#81c995" opacity="0.35"/>
-  <rect x="660" y="88" width="2" height="2" fill="#81c995" opacity="0.35"/>
+  <!-- Row 17 -->
+  <rect x="336" y="274" width="14" height="14" fill="#4285F4" rx="1"/><rect x="337" y="275" width="5" height="5" fill="#6ba3f7" opacity="0.3"/>
+  <rect x="352" y="274" width="14" height="14" fill="#4285F4" rx="1"/><rect x="353" y="275" width="5" height="5" fill="#6ba3f7" opacity="0.3"/>
+  <rect x="384" y="274" width="14" height="14" fill="#34A853" rx="1"/><rect x="385" y="275" width="5" height="5" fill="#81c995" opacity="0.3"/>
 
-  <!-- PIXEL STARS (cross pattern) scattered around -->
-  <rect x="100" y="50" width="5" height="1" fill="#FBBC04" opacity="0.6"/><rect x="102" y="48" width="1" height="5" fill="#FBBC04" opacity="0.6"/>
-  <rect x="310" y="38" width="5" height="1" fill="#4285F4" opacity="0.5"/><rect x="312" y="36" width="1" height="5" fill="#4285F4" opacity="0.5"/>
-  <rect x="500" y="52" width="5" height="1" fill="#EA4335" opacity="0.6"/><rect x="502" y="50" width="1" height="5" fill="#EA4335" opacity="0.6"/>
-  <rect x="700" y="44" width="5" height="1" fill="#34A853" opacity="0.5"/><rect x="702" y="42" width="1" height="5" fill="#34A853" opacity="0.5"/>
-  <rect x="58" y="140" width="5" height="1" fill="#4285F4" opacity="0.4"/><rect x="60" y="138" width="1" height="5" fill="#4285F4" opacity="0.4"/>
-  <rect x="740" y="130" width="5" height="1" fill="#FBBC04" opacity="0.4"/><rect x="742" y="128" width="1" height="5" fill="#FBBC04" opacity="0.4"/>
-  <rect x="280" y="150" width="4" height="1" fill="#34A853" opacity="0.3"/><rect x="281" y="149" width="1" height="4" fill="#34A853" opacity="0.3"/>
-  <rect x="530" y="148" width="4" height="1" fill="#EA4335" opacity="0.3"/><rect x="531" y="147" width="1" height="4" fill="#EA4335" opacity="0.3"/>
-  <rect x="45" y="90" width="4" height="1" fill="#EA4335" opacity="0.3"/><rect x="46" y="89" width="1" height="4" fill="#EA4335" opacity="0.3"/>
-  <rect x="755" y="85" width="4" height="1" fill="#4285F4" opacity="0.3"/><rect x="756" y="84" width="1" height="4" fill="#4285F4" opacity="0.3"/>
+  <!-- Row 16 -->
+  <rect x="384" y="258" width="14" height="14" fill="#34A853" rx="1"/><rect x="385" y="259" width="5" height="5" fill="#81c995" opacity="0.3"/>
+  <rect x="368" y="258" width="14" height="14" fill="#34A853" rx="1"/><rect x="369" y="259" width="5" height="5" fill="#81c995" opacity="0.3"/>
 
-  <!-- GROUND LINE -->
-  <rect x="40" y="238" width="720" height="2" fill="#1a1a2e"/>
-  <rect x="40" y="240" width="720" height="1" fill="#252540"/>
+  <!-- ════════════════════════════════════════════════════ -->
+  <!-- RIGHT PANEL                                         -->
+  <!-- ════════════════════════════════════════════════════ -->
 
-  <!-- RETRO TERMINAL TEXT -->
-  <text x="400" y="268" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="bold" fill="#4285F4" letter-spacing="3">THANKS FOR VISITING!</text>
-  <text x="400" y="290" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="11" fill="#5f6368" letter-spacing="2">&gt; STAR A REPO TO LAUNCH MORE FIREWORKS</text>
+  <!-- NEXT piece label -->
+  <text x="460" y="38" font-family="'Courier New',monospace" font-size="10" fill="#5f6368" font-weight="bold" letter-spacing="2">NEXT</text>
+  <!-- Next piece box -->
+  <rect x="448" y="46" width="56" height="56" fill="#0a0e17" stroke="#1a1f2e" stroke-width="1" rx="2"/>
+  <!-- Next piece: S-piece (Google Green) -->
+  <rect x="464" y="58" width="14" height="14" fill="#34A853" rx="1"/><rect x="465" y="59" width="5" height="5" fill="#81c995" opacity="0.4"/>
+  <rect x="480" y="58" width="14" height="14" fill="#34A853" rx="1"/><rect x="481" y="59" width="5" height="5" fill="#81c995" opacity="0.4"/>
+  <rect x="448" y="74" width="14" height="14" fill="#34A853" rx="1"/><rect x="449" y="75" width="5" height="5" fill="#81c995" opacity="0.4"/>
+  <rect x="464" y="74" width="14" height="14" fill="#34A853" rx="1"/><rect x="465" y="75" width="5" height="5" fill="#81c995" opacity="0.4"/>
 
-  <!-- GOOGLE PIXEL DOTS -->
-  <rect x="370" y="305" width="5" height="5" fill="#4285F4"/>
-  <rect x="381" y="305" width="5" height="5" fill="#EA4335"/>
-  <rect x="392" y="305" width="5" height="5" fill="#FBBC04"/>
-  <rect x="403" y="305" width="5" height="5" fill="#34A853"/>
-  <rect x="414" y="305" width="5" height="5" fill="#4285F4"/>
-  <rect x="425" y="305" width="5" height="5" fill="#EA4335"/>
+  <!-- SCORE -->
+  <text x="460" y="130" font-family="'Courier New',monospace" font-size="10" fill="#5f6368" font-weight="bold" letter-spacing="2">SCORE</text>
+  <text x="460" y="150" font-family="'Courier New',monospace" font-size="16" fill="#4285F4" font-weight="bold">009150</text>
+
+  <!-- LEVEL -->
+  <text x="460" y="185" font-family="'Courier New',monospace" font-size="10" fill="#5f6368" font-weight="bold" letter-spacing="2">LEVEL</text>
+  <text x="460" y="205" font-family="'Courier New',monospace" font-size="16" fill="#EA4335" font-weight="bold">08</text>
+
+  <!-- LINES -->
+  <text x="460" y="240" font-family="'Courier New',monospace" font-size="10" fill="#5f6368" font-weight="bold" letter-spacing="2">LINES</text>
+  <text x="460" y="260" font-family="'Courier New',monospace" font-size="16" fill="#34A853" font-weight="bold">042</text>
+
+  <!-- ════════════════════════════════════════════════════ -->
+  <!-- LEFT PANEL                                          -->
+  <!-- ════════════════════════════════════════════════════ -->
+
+  <!-- HOLD piece label -->
+  <text x="140" y="38" font-family="'Courier New',monospace" font-size="10" fill="#5f6368" font-weight="bold" letter-spacing="2">HOLD</text>
+  <!-- Hold piece box -->
+  <rect x="128" y="46" width="56" height="56" fill="#0a0e17" stroke="#1a1f2e" stroke-width="1" rx="2"/>
+  <!-- Hold piece: L-piece (Google Yellow) -->
+  <rect x="136" y="62" width="14" height="14" fill="#FBBC04" rx="1"/><rect x="137" y="63" width="5" height="5" fill="#fdd663" opacity="0.4"/>
+  <rect x="152" y="62" width="14" height="14" fill="#FBBC04" rx="1"/><rect x="153" y="63" width="5" height="5" fill="#fdd663" opacity="0.4"/>
+  <rect x="168" y="62" width="14" height="14" fill="#FBBC04" rx="1"/><rect x="169" y="63" width="5" height="5" fill="#fdd663" opacity="0.4"/>
+  <rect x="168" y="46" width="14" height="14" fill="#FBBC04" rx="1"/><rect x="169" y="47" width="5" height="5" fill="#fdd663" opacity="0.4"/>
+
+  <!-- Player name -->
+  <text x="128" y="130" font-family="'Courier New',monospace" font-size="10" fill="#5f6368" font-weight="bold" letter-spacing="2">PLAYER</text>
+  <text x="128" y="150" font-family="'Courier New',monospace" font-size="12" fill="#FBBC04" font-weight="bold">SAKSHAM</text>
+
+  <!-- Controls hint -->
+  <text x="128" y="200" font-family="'Courier New',monospace" font-size="8" fill="#333" letter-spacing="1">CONTROLS</text>
+  <rect x="128" y="210" width="60" height="1" fill="#1a1f2e"/>
+  <text x="128" y="225" font-family="'Courier New',monospace" font-size="8" fill="#2a2a3a">← → MOVE</text>
+  <text x="128" y="238" font-family="'Courier New',monospace" font-size="8" fill="#2a2a3a">↑   ROTATE</text>
+  <text x="128" y="251" font-family="'Courier New',monospace" font-size="8" fill="#2a2a3a">↓   SOFT DROP</text>
+  <text x="128" y="264" font-family="'Courier New',monospace" font-size="8" fill="#2a2a3a">SPC HARD DROP</text>
+
+  <!-- ════════════════════════════════════════════════════ -->
+  <!-- TITLE                                               -->
+  <!-- ════════════════════════════════════════════════════ -->
+
+  <!-- TETRIS title at top, pixel style using Google colors -->
+  <text x="600" y="58" font-family="'Courier New',monospace" font-size="28" font-weight="bold" letter-spacing="4">
+    <tspan fill="#4285F4">T</tspan><tspan fill="#EA4335">E</tspan><tspan fill="#FBBC04">T</tspan><tspan fill="#34A853">R</tspan><tspan fill="#4285F4">I</tspan><tspan fill="#EA4335">S</tspan>
+  </text>
+
+  <!-- Decorative dots under title -->
+  <rect x="600" y="68" width="5" height="5" fill="#4285F4"/>
+  <rect x="611" y="68" width="5" height="5" fill="#EA4335"/>
+  <rect x="622" y="68" width="5" height="5" fill="#FBBC04"/>
+  <rect x="633" y="68" width="5" height="5" fill="#34A853"/>
+
+  <!-- High scores -->
+  <text x="590" y="110" font-family="'Courier New',monospace" font-size="10" fill="#5f6368" font-weight="bold" letter-spacing="2">HIGH SCORES</text>
+  <rect x="590" y="118" width="120" height="1" fill="#1a1f2e"/>
+
+  <text x="590" y="138" font-family="'Courier New',monospace" font-size="10" fill="#FBBC04">1. SAKSHAM  009150</text>
+  <text x="590" y="155" font-family="'Courier New',monospace" font-size="10" fill="#5f6368">2. GITHUB   007200</text>
+  <text x="590" y="172" font-family="'Courier New',monospace" font-size="10" fill="#5f6368">3. GOOGLE   005400</text>
+
+  <!-- Mini piece gallery -->
+  <text x="590" y="210" font-family="'Courier New',monospace" font-size="10" fill="#5f6368" font-weight="bold" letter-spacing="2">PIECES</text>
+  <rect x="590" y="218" width="120" height="1" fill="#1a1f2e"/>
+
+  <!-- Mini I-piece -->
+  <rect x="590" y="228" width="8" height="8" fill="#4285F4" rx="1"/>
+  <rect x="599" y="228" width="8" height="8" fill="#4285F4" rx="1"/>
+  <rect x="608" y="228" width="8" height="8" fill="#4285F4" rx="1"/>
+  <rect x="617" y="228" width="8" height="8" fill="#4285F4" rx="1"/>
+  <!-- Mini O-piece -->
+  <rect x="640" y="228" width="8" height="8" fill="#FBBC04" rx="1"/>
+  <rect x="649" y="228" width="8" height="8" fill="#FBBC04" rx="1"/>
+  <rect x="640" y="237" width="8" height="8" fill="#FBBC04" rx="1"/>
+  <rect x="649" y="237" width="8" height="8" fill="#FBBC04" rx="1"/>
+  <!-- Mini T-piece -->
+  <rect x="590" y="250" width="8" height="8" fill="#EA4335" rx="1"/>
+  <rect x="599" y="250" width="8" height="8" fill="#EA4335" rx="1"/>
+  <rect x="608" y="250" width="8" height="8" fill="#EA4335" rx="1"/>
+  <rect x="599" y="259" width="8" height="8" fill="#EA4335" rx="1"/>
+  <!-- Mini S-piece -->
+  <rect x="640" y="250" width="8" height="8" fill="#34A853" rx="1"/>
+  <rect x="649" y="250" width="8" height="8" fill="#34A853" rx="1"/>
+  <rect x="631" y="259" width="8" height="8" fill="#34A853" rx="1"/>
+  <rect x="640" y="259" width="8" height="8" fill="#34A853" rx="1"/>
+
+  <!-- ════════════════════════════════════════════════════ -->
+  <!-- BOTTOM BAR                                          -->
+  <!-- ════════════════════════════════════════════════════ -->
+  <rect x="0" y="350" width="800" height="1" fill="#1a1f2e"/>
+
+  <!-- Bottom text -->
+  <text x="400" y="378" text-anchor="middle" font-family="'Courier New',monospace" font-size="12" fill="#4285F4" font-weight="bold" letter-spacing="3">SCORE = CGPA × 1000  |  LEVEL = PROJECTS</text>
+  <text x="400" y="400" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#5f6368" letter-spacing="2">&gt; STAR THIS REPO TO ADD A LINE CLEAR _</text>
+
+  <!-- Google pixel dots at very bottom -->
+  <rect x="376" y="410" width="4" height="4" fill="#4285F4"/>
+  <rect x="384" y="410" width="4" height="4" fill="#EA4335"/>
+  <rect x="392" y="410" width="4" height="4" fill="#FBBC04"/>
+  <rect x="400" y="410" width="4" height="4" fill="#34A853"/>
+  <rect x="408" y="410" width="4" height="4" fill="#4285F4"/>
+  <rect x="416" y="410" width="4" height="4" fill="#EA4335"/>
 </svg>

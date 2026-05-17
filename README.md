@@ -1,242 +1,53 @@
 <div align="center">
 
-<!-- RETRO ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6600,50:ff00ff,100:00ffff&height=200&section=header&text=SAKSHAM%20GUPTA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%20FULL-STACK%20DEV%20%E2%80%A2%20AI%20ENGINEER%20%E2%80%A2%20B.Tech%20IT%20%E2%96%91%E2%96%92%E2%96%93%E2%96%88&descAlignY=55&descSize=16&descColor=00ff00" width="100%"/>
+<!-- GOOGLE-STYLE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4285F4&height=120&section=header" width="100%"/>
 
-<!-- RETRO TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+LOADING+PROFILE...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+MIT+Manipal+%7C+9.15+CGPA+%7C+Ex-IRCTC;%3E+8%2B+Live+Projects+%7C+2M%2B+Txns+Analyzed" alt="Typing SVG" /></a>
+# &nbsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30"> &nbsp; Hi, I'm **Saksham Gupta**
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=22&duration=3000&pause=1500&color=4285F4&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=30&lines=Full-Stack+Developer+%C2%B7+AI+Engineer;B.Tech+IT+%40+MIT+Manipal+%7C+9.15+CGPA;Ex-IRCTC+%C2%B7+8%2B+Live+Projects;Building+things+that+scale+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- RETRO VISITOR BADGE -->
-<img src="https://komarev.com/ghpvc/?username=Saksham-Gupta-GH&style=for-the-badge&color=ff6600&label=VISITORS+%E2%96%88%E2%96%93%E2%96%92%E2%96%91" alt="Profile Views"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saksham-gupta-gh.github.io)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Saksham-Gupta-LI)&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saksham77779@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-202124?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH)
 
-<br/><br/>
+<br/>
 
-<!-- SOCIAL LINKS - RETRO STYLE -->
-[![LinkedIn](https://img.shields.io/badge/-%E2%96%BA_LinkedIn-ff6600?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Saksham-Gupta-LI)
-[![GitHub](https://img.shields.io/badge/-%E2%96%BA_GitHub-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH)
-[![Portfolio](https://img.shields.io/badge/-%E2%96%BA_Portfolio-00ffff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://saksham-gupta-gh.github.io)
-[![Email](https://img.shields.io/badge/-%E2%96%BA_Email-00ff00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:saksham77779@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Saksham-Gupta-GH&style=flat-square&color=4285F4&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="250" alt="Matrix Animation"/>
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.gif" width="22">&nbsp; About Me
 
-## `> whoami` 🕹️
+> B.Tech IT student at **MIT Manipal** (9.15 CGPA) building production-grade full-stack platforms, ML pipelines, and AI-powered applications. Ex-**IRCTC** intern. Shipping code that scales.
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   Name      : Saksham Gupta                              ║
-║   Location  : New Delhi, India                           ║
-║   Education : B.Tech IT @ MIT Manipal                    ║
-║   CGPA      : 9.15 / 10                                 ║
-║   Role      : Full-Stack Dev & AI Engineer               ║
-║   Status    : Open to Opportunities                      ║
-║   Phone     : +91-9354369079                             ║
-║                                                          ║
-║   ► Building production-grade full-stack platforms,      ║
-║     ML pipelines, and AI-powered applications.           ║
-║   ► Ex-IRCTC Intern | Shipping code that scales.        ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<br clear="right"/>
+- 🔭 &nbsp; Currently working on **AI/ML** and **Full-Stack** projects
+- 🎓 &nbsp; **Top 5%** of IT cohort — Achievers Scholarship recipient
+- 🏢 &nbsp; Previously interned at **IRCTC** — analyzed 2M+ daily transactions
+- 📍 &nbsp; Based in **New Delhi, India**
+- 📫 &nbsp; Reach me at **saksham77779@gmail.com** · **+91-9354369079**
 
 ---
 
-## `> cat experience.log` 💼
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ██████╗  INDIAN RAILWAY CATERING & TOURISM CORP (IRCTC)           │
-│  ╚═══██║  Software Development Intern | June – July 2025          │
-│  ████╔═╝                                                           │
-│  ██╔══╝   ► Analyzed enterprise booking system: 2M+ daily txns    │
-│  ██║      ► Optimized DB queries by 25% via index tuning          │
-│  ╚═╝      ► Evaluated microservices & distributed tracing          │
-│            ► Built Python load-testing & monitoring scripts         │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## `> ls ./skills/` ⚡
-
-<div align="center">
-
-### 「 LANGUAGES 」
-![Python](https://img.shields.io/badge/Python-ff6600?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ff00ff?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ffff?style=flat-square&logo=go&logoColor=black)
-![C/C++](https://img.shields.io/badge/C%2FC++-00ff00?style=flat-square&logo=c%2B%2B&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff6600?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-ff00ff?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-00ffff?style=flat-square&logo=csharp&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-00ff00?style=flat-square&logo=dart&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-ff6600?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-ff00ff?style=flat-square&logo=gnubash&logoColor=white)
-
-### 「 WEB & APP 」
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ffff)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ff6600)
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=00ffff)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff00)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ff6600)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=ff00ff)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=00ff00)
-![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socketdotio&logoColor=00ffff)
-
-### 「 AI & DATA 」
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=ff6600)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=ff6600)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=ff00ff)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=00ffff)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=00ff00)
-![Computer Vision](https://img.shields.io/badge/CV-0d1117?style=flat-square&logo=opencv&logoColor=ff6600)
-![NLP](https://img.shields.io/badge/NLP-0d1117?style=flat-square&logo=spacy&logoColor=ff00ff)
-![LLM/RAG](https://img.shields.io/badge/LLM%2FRAG-0d1117?style=flat-square&logo=openai&logoColor=00ff00)
-
-### 「 DATABASES & CLOUD 」
-![MongoDB](https://img.shields.io/badge/MongoDB-ff6600?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-ff00ff?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00ffff?style=flat-square&logo=postgresql&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-00ff00?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-ff6600?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-ff00ff?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-00ffff?style=flat-square&logo=microsoftazure&logoColor=black)
-
-### 「 DEVOPS & TOOLS 」
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=ff6600)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00ffff)
-![Kubernetes](https://img.shields.io/badge/K8s-0d1117?style=flat-square&logo=kubernetes&logoColor=ff00ff)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=00ff00)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=ff6600)
-![Render](https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=00ffff)
-
-### 「 CS CORE 」
-![DSA](https://img.shields.io/badge/DSA-ff6600?style=flat-square&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-ff00ff?style=flat-square&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-00ffff?style=flat-square&logoColor=black)
-![OS](https://img.shields.io/badge/OS-00ff00?style=flat-square&logoColor=black)
-![Networks](https://img.shields.io/badge/Networks-ff6600?style=flat-square&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-ff00ff?style=flat-square&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-00ffff?style=flat-square&logoColor=black)
-
-</div>
-
----
-
-## `> cat projects.dat` 🚀
-
-<div align="center">
-
-> *Every project is live and deployed. Click to explore!*
-
-</div>
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="22">&nbsp; Experience
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### 🕹️ TripGenie
-```
-STACK: React · TypeScript · Firebase · Gemini · Tailwind
-```
-Role-based travel planning platform (Traveller, Agent, Admin) with RAG pipeline via Gemini for contextual itinerary Q&A.
+**Software Development Intern** &nbsp; <img src="https://img.shields.io/badge/June–July_2025-34A853?style=flat-square&logoColor=white" alt="Date"/>
 
-[![GitHub](https://img.shields.io/badge/CODE-ff6600?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/tripgenie) [![Live](https://img.shields.io/badge/PLAY-00ff00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://tripgenie-ashy.vercel.app/)
+**Indian Railway Catering and Tourism Corporation (IRCTC)**
 
-</td>
-<td width="50%">
-
-### 🛡️ SafePay
-```
-STACK: Python · Flask · MongoDB · Scikit-learn · Crypto
-```
-ML-based fraud detection (85%+ accuracy) with MongoDB backend, AES-256 encryption and digital signatures.
-
-[![GitHub](https://img.shields.io/badge/CODE-ff6600?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/safepay) [![Live](https://img.shields.io/badge/PLAY-00ff00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://safepay-7cyg.onrender.com/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌌 Exoplanet Analysis
-```
-STACK: Python · Scikit-learn · React · NASA · Data Mining
-```
-ML dashboard to identify habitable exoplanets through clustering, scoring models, and interactive NASA visualisations.
-
-[![GitHub](https://img.shields.io/badge/CODE-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/Exoplanet_Analysis) [![Live](https://img.shields.io/badge/PLAY-00ffff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://exoplanet-analysis.vercel.app/)
-
-</td>
-<td width="50%">
-
-### 🌾 Crop Revenue Advisor
-```
-STACK: Python · Flask · Scikit-learn · Leaflet · GeoJSON
-```
-Stacking ensemble ML (RF, GBR, AdaBoost) for crop recommendation with interactive district-level India map.
-
-[![GitHub](https://img.shields.io/badge/CODE-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/crop-revenue-advisor) [![Live](https://img.shields.io/badge/PLAY-00ffff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://crop-revenue-advisor.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📂 FileShare
-```
-STACK: Node.js · Express · Socket.io · React · MongoDB
-```
-Real-time anonymous file & chat sharing with ephemeral rooms, auto-expiry, and live uploads up to 10MB.
-
-[![GitHub](https://img.shields.io/badge/CODE-ff6600?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/fileshare-app) [![Live](https://img.shields.io/badge/PLAY-00ff00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://fileshare-app-qe5e.onrender.com/)
-
-</td>
-<td width="50%">
-
-### 🚇 Intelligent Metro
-```
-STACK: MongoDB · Express · React · Node.js · Gemini API
-```
-MERN metro ticket booking with auth, ticket storage, and a Gemini-powered assistant for route queries.
-
-[![GitHub](https://img.shields.io/badge/CODE-ff6600?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/Metro) [![Live](https://img.shields.io/badge/PLAY-00ff00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://metro-d6oo.onrender.com/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔀 Code2Flow
-```
-STACK: Python · Flask · Gemini API · JavaScript
-```
-Hybrid AI pipeline: LLM-based control-flow extraction via Gemini + deterministic Python rendering with schema validation.
-
-[![GitHub](https://img.shields.io/badge/CODE-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/code2flow) [![Live](https://img.shields.io/badge/PLAY-00ffff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://code2flow-x46y.onrender.com/)
-
-</td>
-<td width="50%">
-
-### ✈️ AI Travel Planner
-```
-STACK: Flutter · Dart · Firebase · Firestore · Gemini · Maps
-```
-Full-stack Flutter app with Firebase Auth, Firestore, and Gemini AI for role-based travel planning & booking.
-
-[![GitHub](https://img.shields.io/badge/CODE-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/AI_travel_planner) [![Live](https://img.shields.io/badge/PLAY-00ffff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://saksham230911186.web.app/)
+- Analyzed enterprise booking system handling **2M+ daily transactions** — mapped data flows and identified observability gaps
+- Optimized relational database queries by **25%** via execution plan analysis and index tuning
+- Evaluated microservices and distributed tracing for scalability
+- Built Python scripts to monitor query performance and simulate concurrent workloads
 
 </td>
 </tr>
@@ -244,88 +55,228 @@ Full-stack Flutter app with Firebase Auth, Firestore, and Gemini AI for role-bas
 
 ---
 
-## `> cat achievements.log` 🏆
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="22">&nbsp; Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="16%"><strong>Languages</strong></td>
+<td>
 
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║  🏆 ACHIEVERS SCHOLARSHIP — Top 5% of IT cohort, MIT Manipal         ║
-║                                                                       ║
-║  🎓 ACADEMIC EXCELLENCE — Consistent CGPA of 9.15/10                 ║
-║                                                                       ║
-║  ☁️  AWS GENERATIVE AI — Professional Certificate (Coursera)          ║
-║                                                                       ║
-║  ☁️  GOOGLE CLOUD DIGITAL LEADER — Professional Cert (Coursera)      ║
-║                                                                       ║
-║  ♟️  ORGANISING COMMITTEE — Chess, Revels'25, MIT Manipal (200+)     ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
+![Python](https://img.shields.io/badge/Python-4285F4?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-EA4335?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-34A853?style=flat-square&logo=go&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC++-FBBC04?style=flat-square&logo=c%2B%2B&logoColor=202124)
+![JavaScript](https://img.shields.io/badge/JS-4285F4?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TS-EA4335?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-34A853?style=flat-square&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-FBBC04?style=flat-square&logo=dart&logoColor=202124)
+![SQL](https://img.shields.io/badge/SQL-4285F4?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-202124?style=flat-square&logo=gnubash&logoColor=white)
 
-</div>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Web & App</strong></td>
+<td>
+
+![React](https://img.shields.io/badge/React-4285F4?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-202124?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-4285F4?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-34A853?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-202124?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-EA4335?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-34A853?style=flat-square&logo=django&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-202124?style=flat-square&logo=socketdotio&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><strong>AI & Data</strong></td>
+<td>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EA4335?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FBBC04?style=flat-square&logo=tensorflow&logoColor=202124)
+![Scikit-learn](https://img.shields.io/badge/Sklearn-4285F4?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-202124?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4285F4?style=flat-square&logo=numpy&logoColor=white)
+![CV](https://img.shields.io/badge/Computer_Vision-34A853?style=flat-square&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-EA4335?style=flat-square&logo=spacy&logoColor=white)
+![LLM/RAG](https://img.shields.io/badge/LLM%2FRAG-FBBC04?style=flat-square&logo=openai&logoColor=202124)
+
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Cloud & DB</strong></td>
+<td>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-34A853?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4285F4?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EA4335?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FBBC04?style=flat-square&logo=firebase&logoColor=202124)
+![AWS](https://img.shields.io/badge/AWS-FBBC04?style=flat-square&logo=amazonaws&logoColor=202124)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-4285F4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><strong>DevOps</strong></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-EA4335?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-4285F4?style=flat-square&logo=docker&logoColor=white)
+![K8s](https://img.shields.io/badge/Kubernetes-4285F4?style=flat-square&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-34A853?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-202124?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-34A853?style=flat-square&logo=render&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><strong>CS Core</strong></td>
+<td>
+
+![DSA](https://img.shields.io/badge/DSA-4285F4?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-EA4335?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-34A853?style=flat-square)
+![OS](https://img.shields.io/badge/OS-FBBC04?style=flat-square)
+![Networks](https://img.shields.io/badge/Networks-4285F4?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-EA4335?style=flat-square)
+![Cryptography](https://img.shields.io/badge/Cryptography-34A853?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `> cat domains.conf` 🎯
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="22">&nbsp; Projects
 
-<div align="center">
+> Every project is **live and deployed**. Click "Live" to try them out.
 
-![AI/ML](https://img.shields.io/badge/%E2%96%BA_AI%2FML-ff6600?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/%E2%96%BA_Deep_Learning-ff00ff?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/%E2%96%BA_Generative_AI-00ffff?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/%E2%96%BA_Full_Stack-00ff00?style=for-the-badge)
-![Mobile Dev](https://img.shields.io/badge/%E2%96%BA_Mobile_Dev-ff6600?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/%E2%96%BA_Cloud-ff00ff?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/%E2%96%BA_DevOps-00ffff?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/%E2%96%BA_Data_Science-00ff00?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/%E2%96%BA_CV-ff6600?style=for-the-badge)
-![NLP](https://img.shields.io/badge/%E2%96%BA_NLP-ff00ff?style=for-the-badge)
-![System Design](https://img.shields.io/badge/%E2%96%BA_System_Design-00ffff?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/%E2%96%BA_Distributed_Sys-00ff00?style=for-the-badge)
+<table>
+<tr>
+<td width="50%">
 
-</div>
+<h4><img src="https://img.shields.io/badge/01-4285F4?style=flat-square" alt="01"/> &nbsp; TripGenie</h4>
+
+`React · TypeScript · Firebase · Gemini API · Tailwind`
+
+Role-based travel planning platform (Traveller, Agent, Admin) with RAG pipeline via Gemini for contextual itinerary Q&A.
+
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/tripgenie) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://tripgenie-ashy.vercel.app/)
+
+</td>
+<td width="50%">
+
+<h4><img src="https://img.shields.io/badge/02-EA4335?style=flat-square" alt="02"/> &nbsp; SafePay</h4>
+
+`Python · Flask · MongoDB · Scikit-learn · Cryptography`
+
+ML-based fraud detection achieving 85%+ accuracy. MongoDB backend with AES-256 encryption and digital signatures.
+
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/safepay) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://safepay-7cyg.onrender.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h4><img src="https://img.shields.io/badge/03-FBBC04?style=flat-square" alt="03"/> &nbsp; Exoplanet Analysis</h4>
+
+`Python · Scikit-learn · React · NASA Datasets · Data Mining`
+
+ML dashboard to identify habitable exoplanets through clustering, scoring models, and interactive NASA data visualisations.
+
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/Exoplanet_Analysis) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://exoplanet-analysis.vercel.app/)
+
+</td>
+<td width="50%">
+
+<h4><img src="https://img.shields.io/badge/04-34A853?style=flat-square" alt="04"/> &nbsp; Crop Revenue Advisor</h4>
+
+`Python · Flask · Scikit-learn · Leaflet.js · GeoJSON`
+
+Stacking ensemble ML (RF, GBR, AdaBoost) for crop recommendation with interactive district-level India map.
+
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/crop-revenue-advisor) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://crop-revenue-advisor.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h4><img src="https://img.shields.io/badge/05-4285F4?style=flat-square" alt="05"/> &nbsp; FileShare</h4>
+
+`Node.js · Express · Socket.io · React · MongoDB`
+
+Real-time anonymous file & chat sharing with ephemeral rooms, auto-expiry, and live uploads up to 10MB.
+
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/fileshare-app) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://fileshare-app-qe5e.onrender.com/)
+
+</td>
+<td width="50%">
+
+<h4><img src="https://img.shields.io/badge/06-EA4335?style=flat-square" alt="06"/> &nbsp; Intelligent Metro</h4>
+
+`MongoDB · Express · React · Node.js · Gemini API`
+
+MERN metro ticket booking with auth, ticket storage, and a Gemini-powered assistant for route queries.
+
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/Metro) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://metro-d6oo.onrender.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h4><img src="https://img.shields.io/badge/07-FBBC04?style=flat-square" alt="07"/> &nbsp; Code2Flow</h4>
+
+`Python · Flask · Gemini API · JavaScript`
+
+Hybrid AI pipeline: LLM-based control-flow extraction via Gemini + deterministic Python rendering with validation.
+
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/code2flow) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://code2flow-x46y.onrender.com/)
+
+</td>
+<td width="50%">
+
+<h4><img src="https://img.shields.io/badge/08-34A853?style=flat-square" alt="08"/> &nbsp; AI Travel Planner</h4>
+
+`Flutter · Dart · Firebase · Firestore · Gemini AI · Maps`
+
+Full-stack Flutter app with Firebase Auth, Firestore, and Gemini AI for role-based travel planning & booking.
+
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/AI_travel_planner) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://saksham230911186.web.app/)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `> neofetch --stats` 📊
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="22">&nbsp; Achievements & Certifications
+
+| &nbsp; | Achievement | Details |
+|:---:|---|---|
+| 🏆 | **Achievers Scholarship** | Ranked in Top 5% of IT cohort at MIT Manipal |
+| 🎓 | **Academic Excellence** | Consistent CGPA of 9.15/10 across all semesters |
+| ☁️ | **AWS Generative AI** | Professional Certificate — Coursera |
+| ☁️ | **Google Cloud Digital Leader** | Professional Certificate — Coursera |
+| ♟️ | **Organising Committee** | Chess — Revels'25, MIT Manipal — 200+ participants |
+
+---
+
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="22">&nbsp; GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saksham-Gupta-GH&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=ff6600&icon_color=00ff00&text_color=00ffff&border_color=ff00ff&hide_border=false&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Gupta-GH&theme=chartreuse-dark&background=0d1117&ring=ff6600&fire=ff00ff&currStreakLabel=00ffff&sideLabels=00ff00&border=ff00ff&dates=00ffff" width="48%" alt="Streak Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Saksham-Gupta-GH&show_icons=true&hide_border=true&bg_color=ffffff&title_color=202124&icon_color=4285F4&text_color=5f6368&count_private=true" width="48%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=Saksham-Gupta-GH&hide_border=true&background=ffffff&ring=4285F4&fire=EA4335&currStreakLabel=202124&sideLabels=202124&currStreakNum=202124&sideNums=202124&dates=5f6368" width="48%" alt="Streak Stats"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Gupta-GH&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=ff6600&text_color=00ffff&border_color=ff00ff&langs_count=10" width="45%" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-Gupta-GH&bg_color=0d1117&color=00ff00&line=ff6600&point=ff00ff&area=true&area_color=00ffff&hide_border=false&custom_title=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%20CONTRIBUTION%20GRAPH%20%E2%96%91%E2%96%92%E2%96%93%E2%96%88" width="98%" alt="Activity Graph"/>
-
-</div>
-
----
-
-## `> cat contact.sh` 📡
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   > LET'S BUILD SOMETHING REMARKABLE TOGETHER.            ║
-║                                                           ║
-║   📧 saksham77779@gmail.com                               ║
-║   🔗 linkedin.com/in/Saksham-Gupta-LI                    ║
-║   🐙 github.com/Saksham-Gupta-GH                         ║
-║   📱 +91-9354369079                                       ║
-║   🌐 saksham-gupta-gh.github.io                          ║
-║   📍 New Delhi, India                                     ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Gupta-GH&layout=compact&hide_border=true&bg_color=ffffff&title_color=202124&text_color=5f6368&langs_count=10" width="40%" alt="Top Languages"/>
 
 </div>
 
@@ -333,25 +284,41 @@ Full-stack Flutter app with Firebase Auth, Firestore, and Gemini AI for role-bas
 
 <div align="center">
 
-<!-- RETRO SNAKE ANIMATION -->
-<img src="https://raw.githubusercontent.com/Saksham-Gupta-GH/Saksham-Gupta-GH/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-Gupta-GH&bg_color=ffffff&color=202124&line=4285F4&point=EA4335&area=true&area_color=e8f0fe&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+#### 🎯 Domains
+
+![AI/ML](https://img.shields.io/badge/AI%2FML-4285F4?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EA4335?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Gen_AI-34A853?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full_Stack-FBBC04?style=flat-square&logoColor=202124)
+![Mobile Dev](https://img.shields.io/badge/Mobile_Dev-4285F4?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud-EA4335?style=flat-square)
+![DevOps](https://img.shields.io/badge/DevOps-34A853?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data_Science-FBBC04?style=flat-square&logoColor=202124)
+![Computer Vision](https://img.shields.io/badge/CV-4285F4?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-EA4335?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-34A853?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Sys-FBBC04?style=flat-square&logoColor=202124)
+
+</div>
+
+---
+
+<div align="center">
+
+*Let's build something remarkable together.*
 
 <br/>
 
-<!-- RETRO FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6600,50:ff00ff,100:00ffff&height=120&section=footer&text=GAME%20OVER%20%E2%80%A2%20INSERT%20COIN%20TO%20CONTINUE&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4285F4&height=80&section=footer" width="100%"/>
 
-<br/>
-
-```
-████████████████████████████████████████████████████████████
-█                                                          █
-█   ► THANKS FOR VISITING MY PROFILE!                      █
-█   ► PRESS ⭐ TO SAVE PROGRESS                           █
-█                                                          █
-█   © 2026 Saksham Gupta | All Rights Reserved             █
-█                                                          █
-████████████████████████████████████████████████████████████
-```
+**© 2026 Saksham Gupta** · New Delhi, India
 
 </div>

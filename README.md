@@ -175,7 +175,7 @@ Role-based travel planning platform (Traveller, Agent, Admin) with RAG pipeline 
 
 ML-based fraud detection achieving 85%+ accuracy. MongoDB backend with AES-256 encryption and digital signatures.
 
-[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/safepay) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://safepay-7cyg.onrender.com/)
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/safepay-online) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://safepay-online.vercel.app/)
 
 </td>
 </tr>
@@ -206,13 +206,13 @@ Stacking ensemble ML (RF, GBR, AdaBoost) for crop recommendation with interactiv
 <tr>
 <td width="50%">
 
-<h4><img src="https://img.shields.io/badge/05-4285F4?style=flat-square" alt="05"/> &nbsp; FileShare</h4>
+<h4><img src="https://img.shields.io/badge/05-4285F4?style=flat-square" alt="05"/> &nbsp; QuickDrop</h4>
 
 `Node.js · Express · Socket.io · React · MongoDB`
 
 Real-time anonymous file & chat sharing with ephemeral rooms, auto-expiry, and live uploads up to 10MB.
 
-[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/fileshare-app) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://fileshare-app-qe5e.onrender.com/)
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/share-salad) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://share-salad.vercel.app/)
 
 </td>
 <td width="50%">
@@ -236,7 +236,7 @@ MERN metro ticket booking with auth, ticket storage, and a Gemini-powered assist
 
 Hybrid AI pipeline: LLM-based control-flow extraction via Gemini + deterministic Python rendering with validation.
 
-[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/code2flow) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://code2flow-x46y.onrender.com/)
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/code-to-flow) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://code-to-flow.vercel.app/)
 
 </td>
 <td width="50%">
@@ -248,6 +248,48 @@ Hybrid AI pipeline: LLM-based control-flow extraction via Gemini + deterministic
 Full-stack Flutter app with Firebase Auth, Firestore, and Gemini AI for role-based travel planning & booking.
 
 [![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/AI_travel_planner) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://saksham230911186.web.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h4><img src="https://img.shields.io/badge/09-4285F4?style=flat-square" alt="09"/> &nbsp; Terminal Explorer</h4>
+
+`Go · Bubble Tea · Lipgloss · gopsutil`
+
+A modern, fast, and visually beautiful Terminal Process Explorer written in Go. Live data fetching, tree view, search & sort.
+
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/terminal-explorer)
+
+</td>
+<td width="50%">
+
+<h4><img src="https://img.shields.io/badge/10-EA4335?style=flat-square" alt="10"/> &nbsp; AeroFlow Engine</h4>
+
+`C++ · WebAssembly · JavaScript · Vite`
+
+A high-performance, real-time CFD Sandbox built with a C++ Navier-Stokes solver and compiled to WebAssembly.
+
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/simulator) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://simulator-phi-five.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h4><img src="https://img.shields.io/badge/11-FBBC04?style=flat-square" alt="11"/> &nbsp; Quant Options Builder</h4>
+
+`Next.js · TypeScript · Tailwind CSS · Recharts`
+
+Interactive web application for quantitative options analysis with Strategy Builder (2D PnL) and Implied Volatility Surface (3D).
+
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/quant-options-builder) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://quant-options-builder.vercel.app/)
+
+</td>
+<td width="50%">
+
+&nbsp;
 
 </td>
 </tr>

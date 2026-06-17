@@ -313,11 +313,11 @@ Interactive web application for quantitative options analysis with Strategy Buil
 
 <div align="center">
 
-<a href="https://saksham-gupta-gh.github.io/brickbreaker.html">
-<img src="https://raw.githubusercontent.com/Saksham-Gupta-GH/Saksham-Gupta-GH/main/brickbreaker.svg" width="100%" alt="Brick Breaker — Click to Play!"/>
+<a href="https://saksham-gupta-gh.github.io/snake.html">
+<img src="https://raw.githubusercontent.com/Saksham-Gupta-GH/Saksham-Gupta-GH/main/snake.svg" width="100%" alt="Snake — Click to Play!"/>
 </a>
 
-**[🕹️ Play Brick Breaker](https://saksham-gupta-gh.github.io/brickbreaker.html)** — *Built with vanilla JS + Google colors*
+**[🕹️ Play Snake](https://saksham-gupta-gh.github.io/snake.html)** — *Built with vanilla JS + Google colors*
 
 </div>
 

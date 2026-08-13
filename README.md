@@ -156,9 +156,20 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width='50%'>
 
-<h4><img src="https://img.shields.io/badge/01-4285F4?style=flat-square" alt="01"/> &nbsp; TripGenie</h4>
+<h4><img src="https://img.shields.io/badge/01-4285F4?style=flat-square" alt="01"/> &nbsp; Typeform Clone</h4>
+
+`Next.js · FastAPI · SQLite · Tailwind · Llama 3.2`
+
+A full-stack Typeform clone with drag-and-drop builder, smooth animations, and AI form generation.
+
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/Typeform) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://typeform-ivory.vercel.app/)
+
+</td>
+<td width='50%'>
+
+<h4><img src="https://img.shields.io/badge/02-EA4335?style=flat-square" alt="02"/> &nbsp; TripGenie</h4>
 
 `React · TypeScript · Firebase · Gemini API · Tailwind`
 
@@ -167,9 +178,11 @@ Role-based travel planning platform (Traveller, Agent, Admin) with RAG pipeline 
 [![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/tripgenie) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://tripgenie-ashy.vercel.app/)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width='50%'>
 
-<h4><img src="https://img.shields.io/badge/02-EA4335?style=flat-square" alt="02"/> &nbsp; SafePay</h4>
+<h4><img src="https://img.shields.io/badge/03-FBBC04?style=flat-square" alt="03"/> &nbsp; SafePay</h4>
 
 `Python · Flask · MongoDB · Scikit-learn · Cryptography`
 
@@ -178,11 +191,9 @@ ML-based fraud detection achieving 85%+ accuracy. MongoDB backend with AES-256 e
 [![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/safepay-online) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://safepay-online.vercel.app/)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width='50%'>
 
-<h4><img src="https://img.shields.io/badge/03-FBBC04?style=flat-square" alt="03"/> &nbsp; Exoplanet Analysis</h4>
+<h4><img src="https://img.shields.io/badge/04-34A853?style=flat-square" alt="04"/> &nbsp; Exoplanet Analysis</h4>
 
 `Python · Scikit-learn · React · NASA Datasets · Data Mining`
 
@@ -191,9 +202,11 @@ ML dashboard to identify habitable exoplanets through clustering, scoring models
 [![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/Exoplanet_Analysis) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://exoplanet-analysis.vercel.app/)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width='50%'>
 
-<h4><img src="https://img.shields.io/badge/04-34A853?style=flat-square" alt="04"/> &nbsp; Crop Revenue Advisor</h4>
+<h4><img src="https://img.shields.io/badge/05-4285F4?style=flat-square" alt="05"/> &nbsp; Crop Revenue Advisor</h4>
 
 `Python · Flask · Scikit-learn · Leaflet.js · GeoJSON`
 
@@ -202,11 +215,9 @@ Stacking ensemble ML (RF, GBR, AdaBoost) for crop recommendation with interactiv
 [![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/crop-revenue-advisor) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://crop-revenue-advisor.vercel.app/)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width='50%'>
 
-<h4><img src="https://img.shields.io/badge/05-4285F4?style=flat-square" alt="05"/> &nbsp; QuickDrop</h4>
+<h4><img src="https://img.shields.io/badge/06-EA4335?style=flat-square" alt="06"/> &nbsp; QuickDrop</h4>
 
 `Node.js · Express · Socket.io · React · MongoDB`
 
@@ -215,9 +226,11 @@ Real-time anonymous file & chat sharing with ephemeral rooms, auto-expiry, and l
 [![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/share-salad) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://share-salad.vercel.app/)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width='50%'>
 
-<h4><img src="https://img.shields.io/badge/06-EA4335?style=flat-square" alt="06"/> &nbsp; Intelligent Metro</h4>
+<h4><img src="https://img.shields.io/badge/07-FBBC04?style=flat-square" alt="07"/> &nbsp; Intelligent Metro</h4>
 
 `MongoDB · Express · React · Node.js · Gemini API`
 
@@ -226,11 +239,9 @@ MERN metro ticket booking with auth, ticket storage, and a Gemini-powered assist
 [![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/Metro) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://metro-d6oo.onrender.com/)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width='50%'>
 
-<h4><img src="https://img.shields.io/badge/07-FBBC04?style=flat-square" alt="07"/> &nbsp; Code2Flow</h4>
+<h4><img src="https://img.shields.io/badge/08-34A853?style=flat-square" alt="08"/> &nbsp; Code2Flow</h4>
 
 `Python · Flask · Gemini API · JavaScript`
 
@@ -239,9 +250,11 @@ Hybrid AI pipeline: LLM-based control-flow extraction via Gemini + deterministic
 [![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/code-to-flow) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://code-to-flow.vercel.app/)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width='50%'>
 
-<h4><img src="https://img.shields.io/badge/08-34A853?style=flat-square" alt="08"/> &nbsp; AI Travel Planner</h4>
+<h4><img src="https://img.shields.io/badge/09-4285F4?style=flat-square" alt="09"/> &nbsp; AI Travel Planner</h4>
 
 `Flutter · Dart · Firebase · Firestore · Gemini AI · Maps`
 
@@ -250,11 +263,9 @@ Full-stack Flutter app with Firebase Auth, Firestore, and Gemini AI for role-bas
 [![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/AI_travel_planner) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://saksham230911186.web.app/)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width='50%'>
 
-<h4><img src="https://img.shields.io/badge/09-4285F4?style=flat-square" alt="09"/> &nbsp; Terminal Explorer</h4>
+<h4><img src="https://img.shields.io/badge/10-EA4335?style=flat-square" alt="10"/> &nbsp; Terminal Explorer</h4>
 
 `Go · Bubble Tea · Lipgloss · gopsutil`
 
@@ -263,9 +274,11 @@ A modern, fast, and visually beautiful Terminal Process Explorer written in Go. 
 [![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/terminal-explorer)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width='50%'>
 
-<h4><img src="https://img.shields.io/badge/10-EA4335?style=flat-square" alt="10"/> &nbsp; AeroFlow Engine</h4>
+<h4><img src="https://img.shields.io/badge/11-FBBC04?style=flat-square" alt="11"/> &nbsp; AeroFlow Engine</h4>
 
 `C++ · WebAssembly · JavaScript · Vite`
 
@@ -274,22 +287,15 @@ A high-performance, real-time CFD Sandbox built with a C++ Navier-Stokes solver 
 [![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/simulator) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://simulator-phi-five.vercel.app/)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width='50%'>
 
-<h4><img src="https://img.shields.io/badge/11-FBBC04?style=flat-square" alt="11"/> &nbsp; Quant Options Builder</h4>
+<h4><img src="https://img.shields.io/badge/12-34A853?style=flat-square" alt="12"/> &nbsp; Quant Options Builder</h4>
 
 `Next.js · TypeScript · Tailwind CSS · Recharts`
 
 Interactive web application for quantitative options analysis with Strategy Builder (2D PnL) and Implied Volatility Surface (3D).
 
 [![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/quant-options-builder) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://quant-options-builder.vercel.app/)
-
-</td>
-<td width="50%">
-
-&nbsp;
 
 </td>
 </tr>

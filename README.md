@@ -5,7 +5,7 @@
 
 # &nbsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30"> &nbsp; Hi, I'm **Saksham Gupta**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=22&duration=3000&pause=1500&color=4285F4&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=30&lines=Full-Stack+Developer+%C2%B7+AI+Engineer;B.Tech+IT+%40+MIT+Manipal+%7C+9.15+CGPA;Ex-IRCTC+%C2%B7+8%2B+Live+Projects;Building+things+that+scale+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=22&duration=3000&pause=1500&color=4285F4&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=30&lines=Full-Stack+Developer+%C2%B7+AI+Engineer;B.Tech+IT+%40+MIT+Manipal+%7C+9.12+CGPA;Ex-IRCTC+%C2%B7+12%2B+Live+Projects;Building+things+that+scale+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -24,11 +24,11 @@
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.gif" width="22">&nbsp; About Me
 
-> B.Tech IT student at **MIT Manipal** (9.15 CGPA) building production-grade full-stack platforms, ML pipelines, and AI-powered applications. Ex-**IRCTC** intern. Shipping code that scales.
+> B.Tech IT student at **MIT Manipal** (9.12 CGPA) building production-grade full-stack platforms, ML pipelines, and AI-powered applications. Ex-**IRCTC** · Ex-**AeroSportsParks**. Shipping code that scales.
 
 - 🔭 &nbsp; Currently working on **AI/ML** and **Full-Stack** projects
 - 🎓 &nbsp; **Top 5%** of IT cohort — Achievers Scholarship recipient
-- 🏢 &nbsp; Previously interned at **IRCTC** — analyzed 2M+ daily transactions
+- 🏢 &nbsp; Interned at **IRCTC** (2025) and **AeroSportsParks** (2026)
 - 📍 &nbsp; Based in **New Delhi, India**
 - 📫 &nbsp; Reach me at **saksham77779@gmail.com** · **+91-9354369079**
 
@@ -48,6 +48,22 @@
 - Optimized relational database queries by **25%** via execution plan analysis and index tuning
 - Evaluated microservices and distributed tracing for scalability
 - Built Python scripts to monitor query performance and simulate concurrent workloads
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+**Software Intern** &nbsp; <img src="https://img.shields.io/badge/June–July_2026-4285F4?style=flat-square&logoColor=white" alt="Date"/>
+
+**AeroSportsParks**
+
+- Built an automated ER diagram generator fetching live schema metadata from **AWS EC2** to visualize database relationships using OOP design
+- Developed a **data migration pipeline** transitioning production data between architectures, preserving integrity across cutover
+- Designed a **Redis-based caching layer** for configuration tables, pre-loading recurring-user sessions and reducing redundant DB reads
 
 </td>
 </tr>
@@ -299,6 +315,30 @@ Interactive web application for quantitative options analysis with Strategy Buil
 
 </td>
 </tr>
+<tr>
+<td width='50%'>
+
+<h4><img src="https://img.shields.io/badge/13-4285F4?style=flat-square" alt="13"/> &nbsp; RTLForge</h4>
+
+`Next.js · TypeScript · MongoDB · Zustand · Simulation Engine`
+
+Browser-based digital logic design & verification lab with real-time RTL simulation, testbench runner, and SVG waveform viewer.
+
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/RTL-Forge) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://rtl-forge-six.vercel.app/)
+
+</td>
+<td width='50%'>
+
+<h4><img src="https://img.shields.io/badge/14-EA4335?style=flat-square" alt="14"/> &nbsp; FairShare</h4>
+
+`Java 17 · Spring Boot 3 · JPA · Docker · React · JUnit`
+
+Full-stack expense splitting app with a Spring Boot REST API, bidirectional friends system, and JUnit integration tests.
+
+[![GitHub](https://img.shields.io/badge/Code-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Gupta-GH/FairShare) &nbsp; [![Live](https://img.shields.io/badge/Live-34A853?style=flat-square&logo=googlechrome&logoColor=white)](https://fairshare-app-five.vercel.app/)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -308,7 +348,7 @@ Interactive web application for quantitative options analysis with Strategy Buil
 | &nbsp; | Achievement | Details |
 |:---:|---|---|
 | 🏆 | **Achievers Scholarship** | Ranked in Top 5% of IT cohort at MIT Manipal |
-| 🎓 | **Academic Excellence** | Consistent CGPA of 9.15/10 across all semesters |
+| 🎓 | **Academic Excellence** | Consistent CGPA of 9.12/10 across all semesters |
 | ☁️ | **AWS Generative AI** | Professional Certificate — Coursera |
 | ☁️ | **Google Cloud Digital Leader** | Professional Certificate — Coursera |
 | ♟️ | **Organising Committee** | Chess — Revels'25, MIT Manipal — 200+ participants |
